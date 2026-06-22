@@ -117,4 +117,4 @@
 
 ---
 
-<h3 align="center">⭐ Turning Data into Insights and Ideas into Intelligence ⭐</h3>
+<h3 align="center">⭐ Turning Data into Insights and Ideas Into Intelligence ⭐</h3>
