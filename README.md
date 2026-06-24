@@ -101,9 +101,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madeenaprojets&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madeenaprojets&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
