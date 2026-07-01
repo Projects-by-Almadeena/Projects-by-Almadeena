@@ -86,7 +86,7 @@
 
 ### ✨ Generative AI Projects
 - Chatbots
-- LLM Application
+- LLM Applicatio
 
 
 ---
