@@ -85,7 +85,7 @@
 - NLP Applications
 
 ### ✨ Generative AI Projects
-- Chatbots
+- Chatbot
 - 
 
 
