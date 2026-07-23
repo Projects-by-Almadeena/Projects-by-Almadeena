@@ -1,4 +1,4 @@
-50# Projects-by-Almadeena
+j850# Projects-by-Almadeena
 
 <h1 align="center">Hi 👋, I'm Madeena</h1>
 <h3 align="center">Data Scientist | Machine Learning Enthusiast | AI Explorer</h3>
@@ -85,7 +85,7 @@
 - NLP Applications
 
 ### ✨ Generative AI Projects
-- Chat
+- Cha
 - 
 
 
